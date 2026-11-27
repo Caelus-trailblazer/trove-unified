@@ -6339,18 +6339,18 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
-      "name": "Stremio-2.0.7",
+      "name": "Stremio-2.0.6",
       "bundleIdentifier": "com.stremio.pal",
-      "developerName": "Stremio-2.0.7 x CyPwn",
-      "version": "2.0.7",
-      "versionDate": "2026-08-28",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/Stremio-2.0.7.ipa",
+      "developerName": "Stremio-2.0.6 x CyPwn",
+      "version": "2.0.6",
+      "versionDate": "2026-07-23",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Stremio-2.0.6.ipa",
       "localizedDescription": "",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Stremio-2.0.7.png",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Stremio-2.0.6.png",
       "tintColor": "FFC300",
-      "size": 79974891,
+      "size": 77175193,
       "screenshotURLs": [
-        "https://ipa.cypwn.xyz/serve/screenshots/Stremio-2.0.7/Stremio-2.0.7-0.png"
+        "https://ipa.cypwn.xyz/serve/screenshots/Stremio-2.0.6/Stremio-2.0.6-0.png"
       ]
     },
     {
@@ -9817,6 +9817,38 @@
       }
     },
     {
+      "name": "RiseSleep",
+      "type": 1,
+      "bundleID": "com.risesci.nyx",
+      "bundleIdentifier": "com.risesci.nyx",
+      "version": "0.1.656",
+      "versionDate": "2026-11-27",
+      "fullDate": "20261127024004",
+      "size": 135746161,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/RiseSleep_0.1.656_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/RiseSleep_0.1.656_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png"
+    },
+    {
+      "name": "ShutEye",
+      "type": 1,
+      "bundleID": "health.sleep.sounds.tracker.alarm.calm",
+      "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
+      "version": "3.6.2",
+      "versionDate": "2026-11-27",
+      "fullDate": "20261127022730",
+      "size": 611993977,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/ShutEye_3.6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/ShutEye_3.6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png"
+    },
+    {
       "name": "Wallpapers",
       "type": 1,
       "bundleID": "com.apalonapps.wallpaperspys",
@@ -10489,22 +10521,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png"
     },
     {
-      "name": "RiseSleep",
-      "type": 1,
-      "bundleID": "com.risesci.nyx",
-      "bundleIdentifier": "com.risesci.nyx",
-      "version": "0.1.655",
-      "versionDate": "2026-11-24",
-      "fullDate": "20261124231427",
-      "size": 135626982,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/RiseSleep_0.1.655_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/RiseSleep_0.1.655_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png"
-    },
-    {
       "name": "VideoStudio",
       "type": 1,
       "bundleID": "videoeditor.app",
@@ -10775,22 +10791,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png"
-    },
-    {
-      "name": "ShutEye",
-      "type": 1,
-      "bundleID": "health.sleep.sounds.tracker.alarm.calm",
-      "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
-      "version": "3.6.1",
-      "versionDate": "2026-11-24",
-      "fullDate": "20261124032540",
-      "size": 611936715,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/ShutEye_3.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/ShutEye_3.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Premium",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png"
     },
     {
       "name": "SimplyGuitar",
@@ -21993,12 +21993,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "11328",
-          "marketingVersion": "3.4.0-alpha.20261126.adcfa50",
-          "date": "2026-11-26",
-          "localizedDescription": "Alpha build adcfa50 · 2026-11-26\n\nChanges in this build:\n• [Agent] build(deps): update shared packages (#3846)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "buildVersion": "11332",
+          "marketingVersion": "3.4.0-alpha.20261127.d0ef6cc",
+          "date": "2026-11-27",
+          "localizedDescription": "Alpha build d0ef6cc · 2026-11-27\n\nChanges in this build:\n• [Agent] ci(testflight): wait and retry when another build is in Beta App Review (#3850)\n• chore(changelog): absorb 1 pending fragment(s) (#3849)\n• [Agent] fix(pause): arcade Insert Coin, Start and Select tiles for players 3 and 4 (#3848)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 787211784,
+          "size": 787420420,
           "minOSVersion": "17.0"
         }
       ],
@@ -22046,6 +22046,17 @@
         "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "versions": [
+        {
+          "version": "1.0.0+1795695085",
+          "buildVersion": "1795695085",
+          "date": "2026-11-26",
+          "localizedDescription": "iFly 1.0.0 (build 1795695085) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795695085/iFly-1.0.0-1795695085.ipa",
+          "size": 101022783,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
         {
           "version": "1.0.0+1795675587",
           "buildVersion": "1795675587",
@@ -23192,11 +23203,11 @@
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "627",
-          "date": "2026-11-26T08:37:30.826Z",
+          "buildVersion": "636",
+          "date": "2026-11-27T00:41:38.256Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-627/Non-Jailbroken.ipa",
-          "size": 141452315,
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-636/Non-Jailbroken.ipa",
+          "size": 141511121,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
@@ -23204,7 +23215,7 @@
         {
           "version": "1.0.0-beta9-ios",
           "buildVersion": "1.0.0-beta9-ios",
-          "date": "2026-11-26",
+          "date": "2026-11-27",
           "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta9/iCube.ipa",
           "size": 82799373,
@@ -23216,7 +23227,7 @@
         {
           "version": "1.0.0-beta8-ios",
           "buildVersion": "1.0.0-beta8-ios",
-          "date": "2026-11-26",
+          "date": "2026-11-27",
           "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta8/iCube.ipa",
           "size": 82893911,
@@ -23228,7 +23239,7 @@
         {
           "version": "1.0.0-beta7-ios",
           "buildVersion": "1.0.0-beta7-ios",
-          "date": "2026-11-26",
+          "date": "2026-11-27",
           "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
           "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta7/iCube.ipa",
           "size": 82893502,
