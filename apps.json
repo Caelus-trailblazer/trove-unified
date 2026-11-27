@@ -9747,12 +9747,20 @@
       "category": "photo-video",
       "beta": false,
       "screenshotURLs": [],
-      "version": "1.0.11",
-      "versionDate": "2026-11-20",
-      "versionDescription": "• TendieMaker updated to v1.0.11",
-      "size": 6152820,
-      "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.11/TendieMaker-1.0.11.ipa",
+      "version": "1.1.0",
+      "versionDate": "2026-11-26",
+      "versionDescription": "• TendieMaker updated to v1.1.0",
+      "size": 108186423,
+      "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.1.0/TendieMaker-1.1.0.ipa",
       "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2026-11-26",
+          "localizedDescription": "• TendieMaker updated to v1.1.0",
+          "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.1.0/TendieMaker-1.1.0.ipa",
+          "size": 108186423,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.0.11",
           "date": "2026-11-20",
@@ -9780,7 +9788,17 @@
         }
       ],
       "appPermissions": {
-        "privacy": {}
+        "entitlements": [
+          "application-identifier",
+          "com.apple.developer.networking.networkextension",
+          "com.apple.developer.networking.vpn.api",
+          "com.apple.developer.team-identifier",
+          "get-task-allow",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "TendieMaker pairs with your own iPhone over the local network so it can flash wallpapers to this device."
+        }
       }
     },
     {
@@ -9815,6 +9833,134 @@
           "NSPhotoLibraryAddUsageDescription": "Layers saves your finished wallpaper to Photos so you can set it as your Home Screen wallpaper."
         }
       }
+    },
+    {
+      "name": "Dropshare",
+      "type": 1,
+      "bundleID": "net.mkswap.Dropshare-iOS",
+      "bundleIdentifier": "net.mkswap.Dropshare-iOS",
+      "version": "3.69",
+      "versionDate": "2026-11-27",
+      "fullDate": "20261127200745",
+      "size": 74583218,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/Dropshare_3.69_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/Dropshare_3.69_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png"
+    },
+    {
+      "name": "NutriCoach",
+      "type": 1,
+      "bundleID": "nutrition.coach",
+      "bundleIdentifier": "nutrition.coach",
+      "version": "2.8.2",
+      "versionDate": "2026-11-27",
+      "fullDate": "20261127173416",
+      "size": 77981932,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/NutriCoach_2.8.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/NutriCoach_2.8.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png"
+    },
+    {
+      "name": "WeatherLive",
+      "type": 1,
+      "bundleID": "com.apalonapps.wlf",
+      "bundleIdentifier": "com.apalonapps.wlf",
+      "version": "7.24.45",
+      "versionDate": "2026-11-27",
+      "fullDate": "20261127152635",
+      "size": 179543502,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/WeatherLive_7.24.45_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/WeatherLive_7.24.45_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png"
+    },
+    {
+      "name": "SpeakTranslate",
+      "type": 1,
+      "bundleID": "com.appicfun.translatorfree",
+      "bundleIdentifier": "com.appicfun.translatorfree",
+      "version": "6.0.63",
+      "versionDate": "2026-11-27",
+      "fullDate": "20261127150411",
+      "size": 40122855,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/SpeakTranslate_6.0.63_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/SpeakTranslate_6.0.63_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png"
+    },
+    {
+      "name": "PeakVisor",
+      "type": 1,
+      "bundleID": "ru.routes.peakvisor",
+      "bundleIdentifier": "ru.routes.peakvisor",
+      "version": "5.126",
+      "versionDate": "2026-11-27",
+      "fullDate": "20261127131659",
+      "size": 165705459,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/PeakVisor_5.126_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/PeakVisor_5.126_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png"
+    },
+    {
+      "name": "SNOW",
+      "type": 1,
+      "bundleID": "com.campmobile.snow",
+      "bundleIdentifier": "com.campmobile.snow",
+      "version": "15.5.6",
+      "versionDate": "2026-11-27",
+      "fullDate": "20261127121451",
+      "size": 186435694,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/SNOW_15.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/SNOW_15.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png"
+    },
+    {
+      "name": "B612",
+      "type": 1,
+      "bundleID": "com.linecorp.b612",
+      "bundleIdentifier": "com.linecorp.b612",
+      "version": "15.5.6",
+      "versionDate": "2026-11-27",
+      "fullDate": "20261127080130",
+      "size": 186041800,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/B612_15.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/B612_15.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png"
+    },
+    {
+      "name": "Athlytic",
+      "type": 1,
+      "bundleID": "myndarc.newFitnessApp",
+      "bundleIdentifier": "myndarc.newFitnessApp",
+      "version": "27.1",
+      "versionDate": "2026-11-27",
+      "fullDate": "20261127071418",
+      "size": 47627719,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/Athlytic_27.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/Athlytic_27.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png"
     },
     {
       "name": "RiseSleep",
@@ -10071,22 +10217,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bing.lyrics.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bing.lyrics.png"
-    },
-    {
-      "name": "PeakVisor",
-      "type": 1,
-      "bundleID": "ru.routes.peakvisor",
-      "bundleIdentifier": "ru.routes.peakvisor",
-      "version": "5.125",
-      "versionDate": "2026-11-26",
-      "fullDate": "20261126055459",
-      "size": 165616183,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/PeakVisor_5.125_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/PeakVisor_5.125_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png"
     },
     {
       "name": "CMProCalc",
@@ -10969,22 +11099,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png"
     },
     {
-      "name": "Weather",
-      "type": 1,
-      "bundleID": "com.apalonapps.wlf",
-      "bundleIdentifier": "com.apalonapps.wlf",
-      "version": "4.18.23",
-      "versionDate": "2026-11-23",
-      "fullDate": "20261123145551",
-      "size": 101637443,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Weather_4.18.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Weather_4.18.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png"
-    },
-    {
       "name": "TheWeather",
       "type": 1,
       "bundleID": "com.impalastudios.theweatherfree",
@@ -11063,22 +11177,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png"
-    },
-    {
-      "name": "Athlytic",
-      "type": 1,
-      "bundleID": "myndarc.newFitnessApp",
-      "bundleIdentifier": "myndarc.newFitnessApp",
-      "version": "27.0.12",
-      "versionDate": "2026-11-22",
-      "fullDate": "20261122071442",
-      "size": 45356592,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/Athlytic_27.0.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/Athlytic_27.0.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png"
     },
     {
       "name": "JSCodePad",
@@ -11335,22 +11433,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png"
-    },
-    {
-      "name": "NutriCoach",
-      "type": 1,
-      "bundleID": "nutrition.coach",
-      "bundleIdentifier": "nutrition.coach",
-      "version": "2.8.1",
-      "versionDate": "2026-11-19",
-      "fullDate": "20261119170941",
-      "size": 78087446,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/NutriCoach_2.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/NutriCoach_2.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png"
     },
     {
       "name": "StressWatch",
@@ -11655,22 +11737,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png"
-    },
-    {
-      "name": "SNOW",
-      "type": 1,
-      "bundleID": "com.campmobile.snow",
-      "bundleIdentifier": "com.campmobile.snow",
-      "version": "15.5.1",
-      "versionDate": "2026-11-18",
-      "fullDate": "20261118131445",
-      "size": 186610373,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/SNOW_15.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/SNOW_15.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png"
     },
     {
       "name": "Sketchar",
@@ -12089,22 +12155,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontpocketsoftware.happyscale.png"
     },
     {
-      "name": "B612",
-      "type": 1,
-      "bundleID": "com.linecorp.b612",
-      "bundleIdentifier": "com.linecorp.b612",
-      "version": "15.5.1",
-      "versionDate": "2026-11-15",
-      "fullDate": "20261115032507",
-      "size": 186216554,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/B612_15.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/B612_15.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png"
-    },
-    {
       "name": "Premiere",
       "type": 1,
       "bundleID": "com.adobe.premiere.ios",
@@ -12279,22 +12329,6 @@
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png"
-    },
-    {
-      "name": "Dropshare",
-      "type": 1,
-      "bundleID": "net.mkswap.Dropshare-iOS",
-      "bundleIdentifier": "net.mkswap.Dropshare-iOS",
-      "version": "3.68",
-      "versionDate": "2026-11-12",
-      "fullDate": "20261112041446",
-      "size": 74405731,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Dropshare_3.68_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Dropshare_3.68_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png"
     },
     {
       "name": "Endel",
@@ -13815,22 +13849,6 @@
       "localizedDescription": "Injected with IGG",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.peoplefun.wordcross.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.peoplefun.wordcross.png"
-    },
-    {
-      "name": "SpeakTranslate",
-      "type": 1,
-      "bundleID": "com.appicfun.translatorfree",
-      "bundleIdentifier": "com.appicfun.translatorfree",
-      "version": "6.0.62",
-      "versionDate": "2026-08-11",
-      "fullDate": "20260811200253",
-      "size": 40360498,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/SpeakTranslate_6.0.62_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/SpeakTranslate_6.0.62_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png"
     },
     {
       "name": "Edith",
@@ -21993,12 +22011,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "11332",
-          "marketingVersion": "3.4.0-alpha.20261127.d0ef6cc",
+          "buildVersion": "11345",
+          "marketingVersion": "3.4.0-alpha.20261127.61c4447",
           "date": "2026-11-27",
-          "localizedDescription": "Alpha build d0ef6cc · 2026-11-27\n\nChanges in this build:\n• [Agent] ci(testflight): wait and retry when another build is in Beta App Review (#3850)\n• chore(changelog): absorb 1 pending fragment(s) (#3849)\n• [Agent] fix(pause): arcade Insert Coin, Start and Select tiles for players 3 and 4 (#3848)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "localizedDescription": "Alpha build 61c4447 · 2026-11-27\n\nChanges in this build:\n• chore(changelog): absorb 1 pending fragment(s) (#3862)\n• [Agent] fix(bezels): TVs in portrait below the notch; a changed TV shows without a restart (#3855)\n• [Agent] build(deps): update shared packages (#3861)\n• chore(changelog): absorb 1 pending fragment(s) (#3860)\n• fix(tvos): keep four-player arcade controls visible (#3859)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 787420420,
+          "size": 787414477,
           "minOSVersion": "17.0"
         }
       ],
@@ -22046,6 +22064,61 @@
         "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "versions": [
+        {
+          "version": "1.0.0+1795764729",
+          "buildVersion": "1795764729",
+          "date": "2026-11-27",
+          "localizedDescription": "iFly 1.0.0 (build 1795764729) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795764729/iFly-1.0.0-1795764729.ipa",
+          "size": 101021743,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795761476",
+          "buildVersion": "1795761476",
+          "date": "2026-11-27",
+          "localizedDescription": "iFly 1.0.0 (build 1795761476) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795761476/iFly-1.0.0-1795761476.ipa",
+          "size": 101021711,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795750267",
+          "buildVersion": "1795750267",
+          "date": "2026-11-27",
+          "localizedDescription": "iFly 1.0.0 (build 1795750267) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795750267/iFly-1.0.0-1795750267.ipa",
+          "size": 101021700,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795738631",
+          "buildVersion": "1795738631",
+          "date": "2026-11-27",
+          "localizedDescription": "iFly 1.0.0 (build 1795738631) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795738631/iFly-1.0.0-1795738631.ipa",
+          "size": 101022275,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795737208",
+          "buildVersion": "1795737208",
+          "date": "2026-11-27",
+          "localizedDescription": "iFly 1.0.0 (build 1795737208) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795737208/iFly-1.0.0-1795737208.ipa",
+          "size": 101022331,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
         {
           "version": "1.0.0+1795695085",
           "buildVersion": "1795695085",
@@ -23203,11 +23276,11 @@
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "636",
-          "date": "2026-11-27T00:41:38.256Z",
+          "buildVersion": "657",
+          "date": "2026-11-27T10:07:28.040Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-636/Non-Jailbroken.ipa",
-          "size": 141511121,
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-657/Non-Jailbroken.ipa",
+          "size": 141536877,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
