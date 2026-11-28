@@ -6339,18 +6339,18 @@
       "appID": "com.rileytestut.Delta.Alpha"
     },
     {
-      "name": "Stremio-2.0.6",
+      "name": "Stremio-2.0.7",
       "bundleIdentifier": "com.stremio.pal",
-      "developerName": "Stremio-2.0.6 x CyPwn",
-      "version": "2.0.6",
-      "versionDate": "2026-07-23",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/Stremio-2.0.6.ipa",
+      "developerName": "Stremio-2.0.7 x CyPwn",
+      "version": "2.0.7",
+      "versionDate": "2026-08-28",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Stremio-2.0.7.ipa",
       "localizedDescription": "",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Stremio-2.0.6.png",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Stremio-2.0.7.png",
       "tintColor": "FFC300",
-      "size": 77175193,
+      "size": 79974891,
       "screenshotURLs": [
-        "https://ipa.cypwn.xyz/serve/screenshots/Stremio-2.0.6/Stremio-2.0.6-0.png"
+        "https://ipa.cypwn.xyz/serve/screenshots/Stremio-2.0.7/Stremio-2.0.7-0.png"
       ]
     },
     {
@@ -9835,6 +9835,38 @@
       }
     },
     {
+      "name": "Locket",
+      "type": 1,
+      "bundleID": "com.locket.Locket",
+      "bundleIdentifier": "com.locket.Locket",
+      "version": "2.75.0",
+      "versionDate": "2026-11-28",
+      "fullDate": "20261128030056",
+      "size": 100225431,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Locket_2.75.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Locket_2.75.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Gold",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png"
+    },
+    {
+      "name": "Fitia",
+      "type": 1,
+      "bundleID": "com.ulisesolave.Fitia",
+      "bundleIdentifier": "com.ulisesolave.Fitia",
+      "version": "25.4.1",
+      "versionDate": "2026-11-28",
+      "fullDate": "20261128002733",
+      "size": 123028093,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Fitia_25.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Fitia_25.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png"
+    },
+    {
       "name": "Dropshare",
       "type": 1,
       "bundleID": "net.mkswap.Dropshare-iOS",
@@ -10425,22 +10457,6 @@
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.mockup.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.mockup.png"
-    },
-    {
-      "name": "Fitia",
-      "type": 1,
-      "bundleID": "com.ulisesolave.Fitia",
-      "bundleIdentifier": "com.ulisesolave.Fitia",
-      "version": "25.4",
-      "versionDate": "2026-11-25",
-      "fullDate": "20261125135649",
-      "size": 122781657,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/Fitia_25.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/Fitia_25.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png"
     },
     {
       "name": "ColorPop",
@@ -11241,22 +11257,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png"
-    },
-    {
-      "name": "Locket",
-      "type": 1,
-      "bundleID": "com.locket.Locket",
-      "bundleIdentifier": "com.locket.Locket",
-      "version": "2.74.0",
-      "versionDate": "2026-11-22",
-      "fullDate": "20261122015604",
-      "size": 98777331,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/Locket_2.74.0_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/Locket_2.74.0_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Gold",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png"
     },
     {
       "name": "HabitKit",
@@ -22011,12 +22011,12 @@
       "versions": [
         {
           "version": "3.4.0",
-          "buildVersion": "11345",
-          "marketingVersion": "3.4.0-alpha.20261127.61c4447",
-          "date": "2026-11-27",
-          "localizedDescription": "Alpha build 61c4447 · 2026-11-27\n\nChanges in this build:\n• chore(changelog): absorb 1 pending fragment(s) (#3862)\n• [Agent] fix(bezels): TVs in portrait below the notch; a changed TV shows without a restart (#3855)\n• [Agent] build(deps): update shared packages (#3861)\n• chore(changelog): absorb 1 pending fragment(s) (#3860)\n• fix(tvos): keep four-player arcade controls visible (#3859)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "buildVersion": "11347",
+          "marketingVersion": "3.4.0-alpha.20261128.6c7968e",
+          "date": "2026-11-28",
+          "localizedDescription": "Alpha build 6c7968e · 2026-11-28\n\nChanges in this build:\n• [Agent] fix(sentry): drop expected MetricKit CPU exceptions for iCube and emulating tag (#3863)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-          "size": 787414477,
+          "size": 787438773,
           "minOSVersion": "17.0"
         }
       ],
@@ -22064,6 +22064,39 @@
         "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "versions": [
+        {
+          "version": "1.0.0+1795774653",
+          "buildVersion": "1795774653",
+          "date": "2026-11-27",
+          "localizedDescription": "iFly 1.0.0 (build 1795774653) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795774653/iFly-1.0.0-1795774653.ipa",
+          "size": 101437024,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795771521",
+          "buildVersion": "1795771521",
+          "date": "2026-11-27",
+          "localizedDescription": "iFly 1.0.0 (build 1795771521) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795771521/iFly-1.0.0-1795771521.ipa",
+          "size": 100897935,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795768886",
+          "buildVersion": "1795768886",
+          "date": "2026-11-27",
+          "localizedDescription": "iFly 1.0.0 (build 1795768886) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795768886/iFly-1.0.0-1795768886.ipa",
+          "size": 101425335,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
         {
           "version": "1.0.0+1795764729",
           "buildVersion": "1795764729",
@@ -23276,11 +23309,11 @@
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "657",
-          "date": "2026-11-27T10:07:28.040Z",
+          "buildVersion": "659",
+          "date": "2026-11-27T10:49:27.069Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-657/Non-Jailbroken.ipa",
-          "size": 141536877,
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-659/Non-Jailbroken.ipa",
+          "size": 141940704,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
